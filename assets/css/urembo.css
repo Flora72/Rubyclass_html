@@ -1,0 +1,12 @@
+h2{
+    color: blueviolet;
+}
+th,td{
+    border: darkmagenta solid 2px;
+    padding: 10px;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+    font-family: Arial, serif;
+}

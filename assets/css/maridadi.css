@@ -1,0 +1,30 @@
+.cars{
+    background-color: aqua;
+    border: 2px solid cadetblue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.CARS{
+    background-color: darkslateblue;
+    border: 2px solid darkmagenta;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.fruits{
+    background-color: cornflowerblue;
+    border: 2px solid mediumorchid;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#wanafunzi{
+    background-color: gold;
+    border: 2px solid burlywood;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
